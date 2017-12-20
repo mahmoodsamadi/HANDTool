@@ -5,9 +5,9 @@ A new terrain model named Height Above the Nearest Drainage (HAND) has been intr
  ArcGIS Desktop 10.2 (or later)
  
 ## Getting Started with the tools
- Download the Github repository
- If repository was downloaded as a zip, extract the zip file
- Make note of this directory, the steps below assume it will be called "HAND Tool"
+ - Download the Github repository
+ - If repository was downloaded as a zip, extract the zip file
+ - Make note of this directory, the steps below assume it will be called "HAND Tool"
  Open the toolboxes in the appropriate version of ArcMap or ArcGIS Pro listed in requirements
  Questions about the tools? Start by reading the tool doc
  Tool doc doesn't make sense? Please log an issue and let us know!
